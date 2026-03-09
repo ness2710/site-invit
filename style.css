@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: hwb(188 45% 37%);
+}
+
+.gfs-didot-regular {
+  font-family: "GFS Didot", serif;
+  font-weight: 400;
+}
+
+ul {
+    background-color: bisque;
+}
+
+.header{
+    background-color: rgb(103, 59, 47);
+    color: antiquewhite;
+    padding: 20px;
+}
+
+.sidebar{
+    background-color: bisque;
+    padding: 20px;
+}
+
+.main-content{
+    background-color: rgb(95, 128, 152);
+    padding: 20px;
+}
+
+.jost-uniquifier {
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+}
+
+.recipe-intro{
+display:flex;
+gap:30px;
+align-items:flex-start;
+margin-bottom:30px;
+}
+
+.recipe-intro img{
+width:350px;
+border-radius:10px;
+}
+
+.ingredients{
+margin-bottom:30px;
+}
+
+.footer{
+background-color:rgb(103,59,47);
+color:antiquewhite;
+text-align:center;
+padding:15px;
+margin-top:40px;
+font-size:14px;
+}
